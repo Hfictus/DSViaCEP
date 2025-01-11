@@ -1,9 +1,12 @@
 
 
 
+import Address from '../models/address.js';
 
 function State() {
     
+    this.address = new Address();
+
     this.btnSave = null;
     this.btnClear = null;
     
@@ -15,7 +18,6 @@ function State() {
     this.errorCep = null;
     this.errorNumber = null;
 }
-
 
 const state = new State();
 
