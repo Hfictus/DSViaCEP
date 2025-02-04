@@ -1,4 +1,7 @@
 # DSViaCEP<br>
+
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/Hfictus/DSViaCEP/blob/main/LICENSE) 
+
 ### Este projeto é uma aplicação web, Front-end, criada ao longo do curso de nivelamento em JavaScript, oferecido pela escola de programação DevSuperior. Nele, implementa-se um nível básico de responsividade, além de serem exercitados conceitos relacionados a módulos, bem como criados eventos e exceções.<br>
 ### Tecnologias usadas:<br>
 HTML5<br>
